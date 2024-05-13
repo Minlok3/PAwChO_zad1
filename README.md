@@ -42,11 +42,18 @@ Zadania dodatkowe:
 
 1.1:
 
-![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/7a527f64-e1ad-47e1-8134-6f2de08f0ad4)
+![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/1ded1336-6026-4520-8c37-165c24af5a68)
+![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/74fa729c-d1ef-4a19-b06c-85b15df6e627)
+
 
 1.2
 
 ![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/1e140e20-a0f5-4fb1-b801-a4b2dad0e79c)
 
 ![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/aa1cd9f8-db87-4dfb-b76d-a24a429df5a5)
+
+1.3
+
+![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/e6fc22cd-0a0a-4258-92b4-bbdcddd3d5fb)
+
 
