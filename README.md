@@ -6,13 +6,12 @@ Zrzut ekranu przeglądarki:
 
 Polecenie do budowy obrazu i wynik jego działania:
 
-![image](https://github.com/Minlok3/PAwChO_lab5/assets/161515539/6ac76c12-93b2-462a-9828-e7147f6707be)
+![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/cbffdd48-2098-46c0-94f4-f551ffbe4d58)
 
 Polecenie uruchamiające serwer:
 
-![image](https://github.com/Minlok3/PAwChO_lab5/assets/161515539/726ca5d2-6816-45a0-ba5d-9d8b5056847c)
+![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/e3e027fc-3a1f-4384-86c2-4ac728b908a8)
 
 Polecenie potwierdzające działanie kontenera i poprawne funkcjonowanie aplikacji:
 
-![image](https://github.com/Minlok3/PAwChO_lab5/assets/161515539/ebb54777-0c34-4081-be69-0714effdfcac)
-
+![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/83261205-5bba-4c75-889c-1a7bb5cbfc3f)
