@@ -12,10 +12,14 @@ Polecenie uruchamiające serwer:
 
 ![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/e3e027fc-3a1f-4384-86c2-4ac728b908a8)
 
-Polecenie potwierdzające działanie kontenera i poprawne funkcjonowanie aplikacji:
+Polecenie potwierdzające działanie kontenera i poprawne funkcjonowanie aplikacji. W wyniku tego polecenia widać również status health check'a:
 
 ![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/83261205-5bba-4c75-889c-1a7bb5cbfc3f)
 
 Na podstawie polecenia docker history można sprawdzić ilość warstw. W przypadku tego obrazu ilość warstw to 7:
 
 ![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/9fe37041-fd5c-4f1f-9b9c-6d963bf049a0)
+
+Poleceniem docker logs można sprawdzić logi kontenera:
+
+![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/3e62ef67-728c-44dd-8623-b408ca03ab32)
