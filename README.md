@@ -36,6 +36,7 @@ Te, a także wiele innych informacji można sprawdzić za pomoca docker desktop'
 
 Analiza docker scout:
 
+![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/5c9ea4a8-7c22-49f5-bfa8-c7788ca73da3)
 
 
 Zadania dodatkowe:
