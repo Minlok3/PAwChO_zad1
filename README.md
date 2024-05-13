@@ -33,3 +33,20 @@ czy na przykład o labelach:
 ![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/f32b1dbf-40c0-462a-8c2f-da692ad70d29)
 
 Te, a także wiele innych informacji można sprawdzić za pomoca docker desktop'a.
+
+Analiza docker scout:
+
+
+
+Zadania dodatkowe:
+
+1.1:
+
+![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/7a527f64-e1ad-47e1-8134-6f2de08f0ad4)
+
+1.2
+
+![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/1e140e20-a0f5-4fb1-b801-a4b2dad0e79c)
+
+![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/aa1cd9f8-db87-4dfb-b76d-a24a429df5a5)
+
