@@ -23,3 +23,17 @@ Na podstawie polecenia docker history można sprawdzić ilość warstw. W przypa
 Poleceniem docker logs można sprawdzić logi kontenera:
 
 ![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/3e62ef67-728c-44dd-8623-b408ca03ab32)
+
+Za pomocą polecenia docker inspect możemy sprawdzić bardzo wiele informacji:
+
+![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/144033a6-7d3c-4832-8351-13f4e832b939)
+
+Informację o warstwach:
+
+![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/10e6bb68-3b42-4d13-8bda-af778a2ce810)
+
+Czy na przykład o labelach:
+
+![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/f32b1dbf-40c0-462a-8c2f-da692ad70d29)
+
+
